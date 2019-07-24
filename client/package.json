@@ -1,7 +1,7 @@
 {
-  "name": "mern",
+  "name": "books-client",
   "version": "0.1.0",
-  "description": "Mern Boilerplate",
+  "description": "React Google Books Search App Client",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
