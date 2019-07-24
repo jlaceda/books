@@ -13,7 +13,7 @@ if (process.env.NODE_ENV === "production") {
 }
 
 // Connect to mongodb
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/mern-app", {useNewUrlParser: true});
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googlebooks", {useNewUrlParser: true});
 
 // Define API routes here
 
